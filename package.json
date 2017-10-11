@@ -1,0 +1,33 @@
+{
+  "name": "osearch",
+  "version": "1.0.0",
+  "description": "Otomat Search - Tìm kiếm mẫu xấp xỉ, động và mềm dẻo theo tiếp cận Otomat mờ",
+  "main": "index.js",
+  "scripts": {
+    "test": "set DEBUG=osearch:* && node test/start.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vunb/osearch.git"
+  },
+  "keywords": [
+    "otomat",
+    "fuzzy-logic",
+    "search-engine",
+    "approximately"
+  ],
+  "author": "vunb",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vunb/osearch/issues"
+  },
+  "homepage": "https://github.com/vunb/osearch#readme",
+  "dependencies": {
+    "debug": "^3.0.1",
+    "superagent": "^3.6.0"
+  },
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.8.0"
+  }
+}
