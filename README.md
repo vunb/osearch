@@ -17,3 +17,8 @@ let index = osearch.findIndex(text, keyword)
 console.log('Result: ', index, osearch.next, osearch.length)
 // Result:  12 19 7
 ```
+
+License
+=======
+
+Apache-2.0
