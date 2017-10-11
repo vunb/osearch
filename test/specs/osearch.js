@@ -1,3 +1,4 @@
+'use strict'
 const test = require('tape')
 const log = require('debug')('osearch:engine')
 const osearch = require('../../index')()
