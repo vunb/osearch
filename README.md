@@ -2,6 +2,9 @@
 
 Otomat Search - Tìm kiếm mẫu xấp xỉ, động và mềm dẻo theo tiếp cận Otomat mờ
 
+[![npm version](https://img.shields.io/npm/v/osearch.svg?style=flat)](https://www.npmjs.com/package/osearch)
+[![Travis](https://travis-ci.org/vunb/osearch.svg?branch=master)](https://travis-ci.org/vunb/osearch)
+
 # Usage
 
 ```js
